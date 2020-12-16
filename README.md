@@ -3,7 +3,7 @@
 ## Screenshots
 
 <p align="center">
-  <img src="/client/src/assets/images/todoApp.png" />
+  <img src="/travel-port-daniel-hernandez/src/assets/images/todoApp.png" />
 </p>
 
 ## Getting started
