@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly the TodoList 1`] = `
+Array [
+  <div
+    className="my-4"
+  >
+    <div
+      className="row mx-4 align-items-center"
+    >
+      <div
+        className="col"
+      >
+        hola
+      </div>
+      <div
+        className="col"
+      >
+        2020-12-10
+      </div>
+      <button
+        className="btn btn-primary m-2 btn-sm custom-btn"
+        onClick={[Function]}
+      >
+        Edit
+      </button>
+      <button
+        className=" btn btn-outline-danger m-2 btn-sm custom-btn"
+        onClick={[Function]}
+      >
+        Delete
+      </button>
+    </div>
+  </div>,
+  " ",
+]
+`;
