@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly the Input 1`] = `
+<div>
+  <div
+    className=" m-4"
+  >
+    <div
+      className="row m-4 d-flex justify-content-center"
+    >
+      <input
+        className="w-50 form-control mx-2"
+        id="title"
+        onChange={[Function]}
+        required={true}
+        type="text"
+      />
+      <input
+        className="w-25 form-control mx-2"
+        id="date"
+        onChange={[Function]}
+        required={true}
+        type="date"
+      />
+      <button
+        className="btn btn-success mx-2 custom-btn"
+        onClick={[Function]}
+      >
+        Add Todo
+      </button>
+      
+    </div>
+  </div>
+</div>
+`;
