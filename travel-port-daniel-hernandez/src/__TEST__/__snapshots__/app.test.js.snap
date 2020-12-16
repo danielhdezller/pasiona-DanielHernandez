@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly the App 1`] = `
+<div
+  className="App m-5"
+>
+  <main
+    className="container"
+  >
+    <h1>
+      What's next?
+    </h1>
+    <div>
+      <div
+        className=" m-4"
+      >
+        <div
+          className="row m-4 d-flex justify-content-center"
+        >
+          <input
+            className="w-50 form-control mx-2"
+            id="title"
+            onChange={[Function]}
+            required={true}
+            type="text"
+          />
+          <input
+            className="w-25 form-control mx-2"
+            id="date"
+            onChange={[Function]}
+            required={true}
+            type="date"
+          />
+          <button
+            className="btn btn-success mx-2 custom-btn"
+            onClick={[Function]}
+          >
+            Add Todo
+          </button>
+          
+        </div>
+      </div>
+    </div>
+    <h3>
+      This are your task to do
+    </h3>
+    <div
+      className="my-4"
+    >
+      <div
+        className="row mx-4 align-items-center"
+      >
+        <div
+          className="col"
+        >
+          hola
+        </div>
+        <div
+          className="col"
+        >
+          2020-12-10
+        </div>
+        <button
+          className="btn btn-primary m-2 btn-sm custom-btn"
+          onClick={[Function]}
+        >
+          Edit
+        </button>
+        <button
+          className=" btn btn-outline-danger m-2 btn-sm custom-btn"
+          onClick={[Function]}
+        >
+          Delete
+        </button>
+      </div>
+    </div>
+  </main>
+</div>
+`;
